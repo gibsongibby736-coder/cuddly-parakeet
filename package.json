@@ -1,0 +1,16 @@
+{
+  "name": "shadow-ai-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Shadow AI WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.6.0",
+    "pino": "^8.17.0",
+    "qrcode": "^1.5.3",
+    "form-data": "^4.0.0"
+  }
+}
